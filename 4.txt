@@ -1,266 +1,146 @@
 # 各频道速度最快前3个直播源
-# 生成时间: 2025-11-11 12:34:07
-
-# AMC电影 频道 (共1个源)
-AMC电影源1,http://61.221.215.25:8800/hls/43/index.m3u8
+# 生成时间: 2025-11-11 12:57:41
+# 源文件: iptv_list.txt
 
 # CCTV1 频道 (共3个源)
-CCTV1源1,https://shyd.695847.xyz/cms001/ch00000090990000001520/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-CCTV1源2,http://223.167.245.20:8001/rtp/239.45.3.145:5140
-CCTV1源3,http://61.156.228.12:8154/tsfile/live/0001_1.m3u8
-
-# CCTV10 频道 (共3个源)
-CCTV10源1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4505&tk=a0c4f6cfaba3
-CCTV10源2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8087&tk=b53028476470
-CCTV10源3,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1982&tk=f6cc1e0a0e1a
-
-# CCTV11 频道 (共3个源)
-CCTV11源1,https://www.freetv.top/migu/667987558.m3u8?migutoken=94966fdba4386de76a59ad1052a1c8095cf8663510a3916813c5e60acb984ae723c749b8fc8917a8201dcae662c135045ceb026cdb90e5c76804938cb26605a70e496eb6695eb30a63b32270a9
-CCTV11源2,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
-CCTV11源3,http://120.76.248.139/live/bfgd/4200000130.m3u8
-
-# CCTV12 频道 (共3个源)
-CCTV12源1,http://drive.mxmy.net:8888/udp/239.3.1.64:8124
-CCTV12源2,http://223.167.245.20:8001/rtp/239.45.3.10:5140
-CCTV12源3,http://61.156.228.12:8154/tsfile/live/0012_1.m3u8
-
-# CCTV13 频道 (共3个源)
-CCTV13源1,https://www.freetv.top/migu/608807423.m3u8?migutoken=d04a0fbe708570ac8859ed559ac6241f3a9da203b9f1dcecbbb627c30fca3aac016d99c7e9dc1efa5b5bd973de8170af65d84d3bfdc932709679f2a688284458be83238ceef24aa5196ad54167
-CCTV13源2,https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
-CCTV13源3,http://223.167.245.20:8001/rtp/239.45.1.198:5140
-
-# CCTV14 频道 (共3个源)
-CCTV14源1,https://www.freetv.top/migu/624878440.m3u8?migutoken=ab4798f1f14300df6bd82662693a13bca4221eb41a68c2446d4c5eb5698887e49f91f026694f31371bc190c16f9cd7e54c61f26e87d09df9aed2e3c5b4c31fa798e2b5f5ba65560ed48591f52a
-CCTV14源2,http://drive.mxmy.net:8888/udp/239.3.1.65:8132
-CCTV14源3,http://171.116.216.113:10010/rtp/226.0.1.170:3094
-
-# CCTV15 频道 (共3个源)
-CCTV15源1,https://www.freetv.top/migu/673168223.m3u8?migutoken=572b98a51e3730acfb3ef18bd9b51525172b58d008142744ba4de9bd208efb14a7f2e9b054ec49e26a6f8c1fb53afdf84b27a1ea201dc024921aaadf68dbb087c12dac0ace1184dd4cff79ea12
-CCTV15源2,http://223.167.245.20:8001/rtp/239.45.1.200:5140
-CCTV15源3,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv
-
-# CCTV16 频道 (共3个源)
-CCTV16源1,http://171.116.216.113:10010/rtp/226.0.1.118:2032
-CCTV16源2,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
-CCTV16源3,http://58.32.32.87:4022/udp/233.18.204.215:5140
-
-# CCTV17 频道 (共3个源)
-CCTV17源1,http://171.116.216.113:10010/rtp/226.0.1.117:2033
-CCTV17源2,http://223.167.245.20:8001/rtp/239.45.3.52:5140
-CCTV17源3,http://61.156.228.12:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1源1,https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
+CCTV1源2,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
+CCTV1源3,https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8
 
 # CCTV2 频道 (共3个源)
-CCTV2源1,https://www.freetv.top/migu/631780532.m3u8?migutoken=6c76ed4394c8c43f88aac34dab811cbf99f0534dd0deb2fa6a2515925b7e3485de13876836fa6823e42f5c7304cfe44911416d7ad0312b8fbf012adfe4f735fd37abdd31a3b3e6f645512cd090
-CCTV2源2,https://www.freetv.top/migu/631780532.m3u8?migutoken=238417e78263f85047b232a16f4c1ffb5ffd1b15634ab4b2cd6db01aa23635473bcc819f5117896e8c390c4d26ce6e515c32d787d18f81f6d8434ea92a954703e681dfc6d324346418e49c5d6c
+CCTV2源1,http://drive.mxmy.net:8888/udp/239.3.1.60:8084
+CCTV2源2,https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8
 CCTV2源3,http://223.167.245.20:8001/rtp/239.45.3.208:5140
 
 # CCTV3 频道 (共3个源)
-CCTV3源1,https://shyd.695847.xyz/cms001/ch00000090990000001186/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-CCTV3源2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7235&tk=b53028476470
-CCTV3源3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
+CCTV3源1,http://223.167.245.20:8001/rtp/239.45.1.68:5140
+CCTV3源2,https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8
+CCTV3源3,http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 # CCTV4 频道 (共3个源)
-CCTV4源1,https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
-CCTV4源2,http://171.116.216.113:10010/rtp/226.0.1.160:2019
-CCTV4源3,http://drive.mxmy.net:8888/udp/239.3.1.213:4220
+CCTV4源1,https://www.freetv.top/migu/608807416.m3u8?migutoken=cfc1141967eb2f06f62caa8f87ecd004f5096e3d9013d45f3fbc7597bc6f8a5b22a7b29ff3e195b179467f54bb94620de38658b7c53f55144109671005f6b03a062dd1fc884e2169dbcb902874
+CCTV4源2,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV4源3,https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8
 
 # CCTV5 频道 (共3个源)
-CCTV5源1,https://shyd.695847.xyz/cms001/ch00000090990000001187/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-CCTV5源2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5070&tk=b53028476470
-CCTV5源3,https://www.freetv.top/migu/641886683.m3u8?migutoken=6e3c4a6fba0be5e4060d1c8abab920c2a8ee3308ee2e5a373bad466d9c1c0c3815b96ff56d6b8aab1f7440fc34813d288efe932e05cf0594d7b1a4eaa542a95508f64bbc8423a4e814954a0913
-
-# CCTV5+ 频道 (共3个源)
-CCTV5+源1,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
-CCTV5+源2,http://120.76.248.139/live/bfgd/4200000246.m3u8
-CCTV5+源3,http://218.17.33.178:53290/tsfile/live/1005_1.m3u8?key=txiptv
+CCTV5源1,https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
+CCTV5源2,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
+CCTV5源3,https://www.freetv.top/migu/641886773.m3u8?migutoken=4f1a9fcd002d1813b494eddd61778e103dbe130f4abb409e9032be9917dfd1871014d622a729fd6ffc4e1c376330de3f42c3691e2b49d12f7eb77bdf1887e67a9e6ad438d269a4408f0b3c6bcb
 
 # CCTV6 频道 (共3个源)
-CCTV6源1,https://www.freetv.top/migu/624878396.m3u8?migutoken=f106dfcfc577d00f7608ecfa1821ef5b850d5b0ae6ffd298d5cc766a7cee810ffb2ca762f0418626189b61920434ab05bf1d3c6162b881b7741491f346dec817038b0f5e60acdc289cda4b0066
-CCTV6源2,https://www.freetv.top/migu/624878396.m3u8?migutoken=ee6c3d925888b2938ca61a2c94d84986ff15ec0fedd3e1e35bcf4ffada20fbeead007033b33efc350632bb959d9bee9da36bac91ec304513f63032fb12e8f570416fc533ede1c4ef94197eb07c
-CCTV6源3,http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6源1,https://www.freetv.top/migu/624878396.m3u8?migutoken=cf8aa2ae484a26a284790c996f43ed3d911dfba0ee5662ecc4c55b38098e9337cf10f0ac3894a85627dcfe0492addd1d07ff6e3aa6f467d0a2f30f53c4d0ce2a4686f74d46c050c0e010f46a65
+CCTV6源2,https://www.freetv.top/migu/624878396.m3u8?migutoken=280d56b37be81134b0c93f6d98009c732d89773dde0fe57536c5fd22070225a1ea90f8e9a57aba816bc16c695344e9e2579ade462746354c67f0756ba7e2f6d781d626fe43d2b35893ba7a4cdb
+CCTV6源3,http://www.freetv.top/migu/624878396.m3u8?migutoken=3adcad950884d4ecc6c6967edee9c162189a1e09480eb5c29b369864aeedaed43c3f951d7eb6c32d86baac49792aacb3264b8f074e746477064fd7b1f172f00a9d84373825617d4366e8c54f0c
 
 # CCTV7 频道 (共3个源)
-CCTV7源1,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
-CCTV7源2,http://171.116.216.113:10010/rtp/226.0.1.163:3097
-CCTV7源3,http://124.128.73.58:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7源1,https://api.olelive.com/dis/live/CCTV7HD/hls.m3u8
+CCTV7源2,http://61.156.228.12:8154/tsfile/live/0007_1.m3u8
+CCTV7源3,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
 
 # CCTV8 频道 (共3个源)
-CCTV8源1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0561&tk=e503191f8e20
+CCTV8源1,http://223.167.245.20:8001/rtp/239.45.1.71:5140
 CCTV8源2,http://171.116.216.113:10010/rtp/226.0.1.140:2023
 CCTV8源3,http://112.132.10.54:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 
 # CCTV9 频道 (共3个源)
-CCTV9源1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9569&tk=a0c4f6cfaba3
-CCTV9源2,https://www.freetv.top/migu/673168140.m3u8?migutoken=a6f3e71bb2bb9d74426a1761b5d2daf69d595aebfafc6e4a7bac09190d4545961d1cc02d05117f0a2e2ef42ebdc9f2520b8f601aab6252de7373f68c95aa3277f6c51bae97dd75144efc7ed543
-CCTV9源3,https://www.freetv.top/migu/673168140.m3u8?migutoken=bf18bf699c0dc93a6e5b0ebd94f0e14b7aac68f848bdb2bfc52120a5b0c3db69e41d1b5ff8515aa4da37ccb9412e9b6e42b02d94c62edccf595ab49084cce74ebcb951706db0ff5c76ecbe35fe
-
-# CCTV怀旧剧场 频道 (共3个源)
-CCTV怀旧剧场源1,http://171.116.216.113:10010/rtp/226.0.1.182:2121
-CCTV怀旧剧场源2,http://58.32.32.87:4022/udp/239.45.0.49:5140
-CCTV怀旧剧场源3,http://120.76.248.139/live/bfgd/4200000224.m3u8
-
-# CCTV风云剧场 频道 (共3个源)
-CCTV风云剧场源1,http://171.116.216.113:10010/rtp/226.0.1.212:2133
-CCTV风云剧场源2,http://113.106.171.234:8899/rtp/239.21.0.76:3644
-CCTV风云剧场源3,http://58.32.32.87:4022/udp/239.45.0.50:5140
-
-# CCTV风云音乐 频道 (共3个源)
-CCTV风云音乐源1,http://171.116.216.113:10010/rtp/226.0.1.164:2109
-CCTV风云音乐源2,http://113.106.171.234:8899/rtp/239.21.0.79:3656
-CCTV风云音乐源3,http://58.32.32.87:4022/udp/239.45.0.52:5140
-
-# CHC动作电影 频道 (共3个源)
-CHC动作电影源1,http://eastscreen.tv/ooooo.php?id=chcdz
-CHC动作电影源2,http://113.195.172.192:808/hls/114/index.m3u8
-CHC动作电影源3,http://58.32.32.87:4022/udp/239.45.0.41:5140
-
-# CHC家庭影院 频道 (共3个源)
-CHC家庭影院源1,http://eastscreen.tv/ooooo.php?id=chcjt
-CHC家庭影院源2,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
-CHC家庭影院源3,http://113.195.172.192:808/hls/113/index.m3u8
-
-# CHC影迷电影 频道 (共2个源)
-CHC影迷电影源1,https://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-CHC影迷电影源2,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=20251111200033309cecdee396458f91961406e0d288c8&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251111200033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.90&SecurityKey=20251111200033&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=07c501a969dcd35e6af4897d7e79e6e9&ddCalcu=90e7e6c1e5290071ea79d6799d8c4df3a56e
-
-# 上海卫视 频道 (共2个源)
-上海卫视源1,http://124.128.73.58:9901/tsfile/live/0107_2.m3u8?key=txiptv
-上海卫视源2,http://61.156.228.12:8154/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-
-# 东南卫视 频道 (共3个源)
-东南卫视源1,https://www.freetv.top/migu/849116810.m3u8?migutoken=820d1dfe311ed9d88634dc040a64adbd8f30c96a6aec221a9807061025c02cc5be8e21cca6eb021eb76ad7333303e5dbe8e3ef24ad4aa58a274dc33ec25a3b373ddb6aee551e16ba35b3a9143a
-东南卫视源2,http://223.167.245.20:8001/rtp/239.45.1.121:5140
-东南卫视源3,http://113.57.93.165:9900/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9源1,https://api.olelive.com/dis/live/CCTV9HD/hls.m3u8
+CCTV9源2,https://www.freetv.top/migu/673168140.m3u8?migutoken=f5a0447d474381f05ad937a4933b37ad2b07fac33d1b26c56fe53ec50cce3fd26529a6dab3c763a4ea36cf43e62259fb3c8e130e447f30524fe9fb12f2a2b4200155d739c8b640dc6ce40d2669
+CCTV9源3,http://drive.mxmy.net:8888/udp/239.3.1.62:8112
 
 # 东方卫视 频道 (共3个源)
-东方卫视源1,https://shyd.695847.xyz/cms001/ch00000090990000001013/index.m3u8?IAS
-东方卫视源2,http://drive.mxmy.net:8888/udp/239.3.1.136:8032
-东方卫视源3,http://223.167.245.20:8001/rtp/239.45.3.146:5140
-
-# 东森电影 频道 (共3个源)
-东森电影源1,https://cdn.iptv8k.top/dl/jrys.php?id=230&time=20240926215313&ip=111.229.253.40
-东森电影源2,https://cdn.iptv8k.top/dl/jrys.php?id=229&time=20240926215313&ip=111.229.253.40
-东森电影源3,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
+东方卫视源1,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+东方卫视源2,https://www.freetv.top/migu/651632648.m3u8?migutoken=82404ece5a3e1172fe62375275fbec1972e5760ebab5a792834d63b128c6d25cdbb7e8922093aebaf6b4ff8a12f4970bb82639383bb1571a21e1e74fda3c763651392bb4b918419230e8b830e0
+东方卫视源3,https://www.freetv.top/migu/651632648.m3u8?migutoken=c9a7a392335b6f990a4b233b6066770e1330aa6b6fed2a47f3985567ef8988af1b02bf0adfcc1243deb1fb6fb57ade7c90aa1550041f7c3dfe329e36daf55d57c902f86accec6e30f8ee9b773f
 
 # 云南卫视 频道 (共3个源)
-云南卫视源1,http://124.128.73.58:9901/tsfile/live/0119_1.m3u8
+云南卫视源1,http://112.27.235.94:8000/hls/40/index.m3u8
 云南卫视源2,http://120.76.248.139/live/bfgd/4200000482.m3u8
-云南卫视源3,http://112.27.235.94:8000/hls/40/index.m3u8
-
-# 凤凰中文 频道 (共3个源)
-凤凰中文源1,https://cdn6.101.qzz.io/163189/fhzw
-凤凰中文源2,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-凤凰中文源3,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
-
-# 凤凰卫视 频道 (共2个源)
-凤凰卫视源1,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰卫视源2,http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
-
-# 凤凰资讯 频道 (共3个源)
-凤凰资讯源1,https://cdn6.101.qzz.io/163189/fhzx
-凤凰资讯源2,http://108.181.20.197/livehttpplay?channel_id=30015
-凤凰资讯源3,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-
-# 凤凰香港 频道 (共3个源)
-凤凰香港源1,https://cdn6.101.qzz.io/163189/fhhk
-凤凰香港源2,http://108.181.20.197/livehttpplay?channel_id=30016
-凤凰香港源3,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-
-# 动作电影 频道 (共2个源)
-动作电影源1,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
-动作电影源2,http://cfss.cc/cdn/hy/11602077.m3u8
+云南卫视源3,http://58.57.40.22:9901/tsfile/live/1047_1.m3u8
 
 # 北京卫视 频道 (共3个源)
 北京卫视源1,https://shyd.695847.xyz/cms001/ch00000090990000001029/index.m3u8?IAS
-北京卫视源2,http://223.167.245.20:8001/rtp/239.45.3.229:5140
-北京卫视源3,http://171.116.216.113:10010/rtp/226.0.1.185:3108
+北京卫视源2,http://61.156.228.12:8154/tsfile/live/0122_1.m3u8
+北京卫视源3,http://124.128.73.58:9901/tsfile/live/0122_1.m3u8
 
 # 厦门卫视 频道 (共3个源)
 厦门卫视源1,http://183.11.239.36:808/hls/17/index.m3u8
 厦门卫视源2,http://60.174.40.117:85/tsfile/live/0129_1.m3u8?key=txiptv
-厦门卫视源3,http://sh.lnott.top:880/dx48.m3u8
+厦门卫视源3,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 
 # 吉林卫视 频道 (共3个源)
-吉林卫视源1,http://drive.mxmy.net:8888/udp/239.3.1.240:8172
-吉林卫视源2,http://113.57.93.165:9900/tsfile/live/1007_1.m3u8
-吉林卫视源3,http://171.116.216.113:10010/rtp/226.0.1.220:2068
+吉林卫视源1,https://www.freetv.top/migu/947472500.m3u8?migutoken=18d6d17bc9f6d0621b56e251449da66bb58876d41330b568d80f5262c9496615d17187c2eb3404fcf6c7110bd098cb97ef096ba5ee0db8bc36853d5e90104624843156a3bbce9cd841e94e3b54
+吉林卫视源2,http://171.116.216.113:10010/rtp/226.0.1.220:2068
+吉林卫视源3,https://www.freetv.top/migu/947472500.m3u8?migutoken=250e0383e8b670fa08b2f4aa78646ab4e9e4735bed1322cea2c819836d2dadd00594d11d905be0e507f1b6ad9c856bff9f88ecb37c73574cc468f3487c6f0a09e3d08567a7abfc02dad5cf14b7
 
 # 四川卫视 频道 (共3个源)
-四川卫视源1,http://124.128.73.58:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视源2,http://1.58.246.183:4001/rtp/229.58.190.38:5000
-四川卫视源3,http://112.27.235.94:8000/hls/35/index.m3u8
+四川卫视源1,http://61.156.228.12:8154/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视源2,http://61.156.228.12:8154/tsfile/live/0123_1.m3u8
+四川卫视源3,http://124.128.73.58:9901/tsfile/live/0123_1.m3u8
 
 # 天津卫视 频道 (共3个源)
-天津卫视源1,http://171.116.216.113:10010/rtp/226.0.1.153:3083
-天津卫视源2,http://drive.mxmy.net:8888/udp/239.3.1.141:1234
-天津卫视源3,http://112.46.85.60:8009/hls/44/index.m3u8
+天津卫视源1,http://112.27.235.94:8000/hls/42/index.m3u8
+天津卫视源2,http://171.116.216.113:10010/rtp/226.0.1.153:3083
+天津卫视源3,http://drive.mxmy.net:8888/udp/239.3.1.141:1234
 
 # 宁夏卫视 频道 (共3个源)
-宁夏卫视源1,http://120.76.248.139/live/bfgd/4200000118.m3u8
-宁夏卫视源2,http://183.11.239.36:808/hls/106/index.m3u8
-宁夏卫视源3,http://cssbyd.imwork.net:8082/hls/45/index.m3u8
+宁夏卫视源1,http://183.11.239.36:808/hls/106/index.m3u8
+宁夏卫视源2,http://120.76.248.139/live/bfgd/4200000118.m3u8
+宁夏卫视源3,http://58.57.40.22:9901/tsfile/live/1054_1.m3u8
 
 # 安徽卫视 频道 (共3个源)
-安徽卫视源1,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
-安徽卫视源2,http://223.167.245.20:8001/rtp/239.45.1.120:5140
-安徽卫视源3,http://113.57.93.165:9900/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-
-# 家庭影院 频道 (共1个源)
-家庭影院源1,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
+安徽卫视源1,http://223.167.245.20:8001/rtp/239.45.1.120:5140
+安徽卫视源2,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
+安徽卫视源3,http://171.116.216.113:10010/rtp/226.0.1.148:3077
 
 # 山东卫视 频道 (共3个源)
-山东卫视源1,http://223.167.245.20:8001/rtp/239.45.3.238:5140
+山东卫视源1,https://www.yangshipin.cn/tv/home?pid=600002513
 山东卫视源2,http://drive.mxmy.net:8888/udp/239.3.1.209:8052
-山东卫视源3,http://61.156.228.12:8154/tsfile/live/0131_1.m3u8
+山东卫视源3,http://171.116.216.113:10010/rtp/226.0.1.154:3084
 
 # 山西卫视 频道 (共3个源)
-山西卫视源1,http://112.27.235.94:8000/hls/45/index.m3u8
-山西卫视源2,http://60.16.0.216:5757/hls/39/index.m3u8
-山西卫视源3,https://shyd.695847.xyz/cms001/ch00000090990000001070/index.m3u8?IAS
+山西卫视源1,http://60.16.0.216:5757/hls/39/index.m3u8
+山西卫视源2,http://124.128.73.58:9901/tsfile/live/0118_1.m3u8
+山西卫视源3,http://112.27.235.94:8000/hls/45/index.m3u8
 
 # 广东卫视 频道 (共3个源)
-广东卫视源1,http://223.167.245.20:8001/rtp/239.45.3.230:5140
-广东卫视源2,http://113.57.93.165:9900/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视源3,http://drive.mxmy.net:8888/udp/239.3.1.142:8048
+广东卫视源1,http://drive.mxmy.net:8888/udp/239.3.1.142:8048
+广东卫视源2,https://www.freetv.top/migu/608831231.m3u8?migutoken=78af5371d66a723fc72d7a69c8a18ade502c19d2cf715aa502730a2b197148f3ac859ba4dfc8177df928c7b17e4f7e50e73fa17782751d96ca1224dc27c62d3025503e7b80de41b09560f78ee1
+广东卫视源3,http://113.57.93.165:9900/tsfile/live/0125_1.m3u8
 
 # 广西卫视 频道 (共3个源)
-广西卫视源1,https://www.yangshipin.cn/tv/home?pid=600002509
-广西卫视源2,http://171.116.216.113:10010/rtp/226.0.1.75:2066
-广西卫视源3,http://113.57.93.165:9900/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-
-# 明珠台 频道 (共2个源)
-明珠台源1,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-明珠台源2,http://r.jdshipin.com/GeWKr?id=mzt720
+广西卫视源1,http://171.116.216.113:10010/rtp/226.0.1.75:2066
+广西卫视源2,http://223.167.245.20:8001/rtp/239.45.0.5:5140
+广西卫视源3,http://113.57.93.165:9900/tsfile/live/1004_1.m3u8
 
 # 江苏卫视 频道 (共3个源)
-江苏卫视源1,http://223.167.245.20:8001/rtp/239.45.3.177:5140
-江苏卫视源2,http://113.57.93.165:9900/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视源3,http://113.57.93.165:9900/tsfile/live/0127_1.m3u8
+江苏卫视源1,https://www.freetv.top/migu/623899368.m3u8?migutoken=a05a40d6e6ed59e05b38b4ebfaa76f08e8b1477802d7e984802aa4997af44caac8ccf440496662d885f70a6d35fa54f4aa876e2a834e7f5026b626fb250dcc5d14ae02fa6247c3e070d256ea39
+江苏卫视源2,https://www.freetv.top/migu/623899368.m3u8?migutoken=f1cd269b0915b27f2f0df129140c45e31211c441e8ec295cf566305c2c1d9f490e8e306f275eb4c59d97f3f033a2c75d35acaee85d3c81095ef1399e7c55e0351c61f40a24aaa0a52ccffa9041
+江苏卫视源3,https://www.freetv.top/migu/623899368.m3u8?migutoken=97c7334488eebe10f8c7b70518971ba643de7407f32f3bb9fa0a6ece2bce6efb9942dee16dfb87de86df53f96ada93dc655f3c7535b19ffce4a9f67172ff587bbab11924238b04bf91959f0cc5
 
 # 江西卫视 频道 (共3个源)
-江西卫视源1,http://223.167.245.20:8001/rtp/239.45.1.122:5140
-江西卫视源2,http://120.76.248.139/live/bfgd/4200000098.m3u8
-江西卫视源3,http://171.116.216.113:10010/rtp/226.0.1.219:2067
+江西卫视源1,http://171.116.216.113:10010/rtp/226.0.1.219:2067
+江西卫视源2,http://1.58.246.183:4000/rtp/229.58.190.208:5000
+江西卫视源3,http://124.128.73.58:9901/tsfile/live/0138_1.m3u8?key=txiptv
 
 # 河北卫视 频道 (共3个源)
-河北卫视源1,http://171.116.216.113:10010/rtp/226.0.1.186:3109
-河北卫视源2,https://shyd.695847.xyz/cms001/ch00000090990000001229/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-河北卫视源3,http://1.58.246.183:4000/rtp/229.58.190.209:5000
+河北卫视源1,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
+河北卫视源2,http://61.156.228.12:8154/tsfile/live/0117_1.m3u8
+河北卫视源3,http://drive.mxmy.net:8888/udp/239.3.1.148:8072
 
 # 河南卫视 频道 (共3个源)
-河南卫视源1,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=103756dd1479f8ff2d800530a4394eb1&wsTime=1762876825
-河南卫视源2,http://171.116.216.113:10010/rtp/226.0.1.201:2064
+河南卫视源1,http://171.116.216.113:10010/rtp/226.0.1.201:2064
+河南卫视源2,http://61.156.228.12:8154/tsfile/live/0139_1.m3u8
 河南卫视源3,http://223.167.245.20:8001/rtp/239.45.0.3:5140
 
 # 浙江卫视 频道 (共3个源)
 浙江卫视源1,http://drive.mxmy.net:8888/udp/239.3.1.137:8036
 浙江卫视源2,http://113.57.93.165:9900/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视源3,http://113.57.93.165:9900/tsfile/live/0124_1.m3u8
+浙江卫视源3,http://171.116.216.113:10010/rtp/226.0.1.147:3076
 
 # 海南卫视 频道 (共3个源)
 海南卫视源1,https://shyd.695847.xyz/cms001/ch00000090990000001183/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 海南卫视源2,http://223.167.245.20:8001/rtp/239.45.1.81:5140
-海南卫视源3,http://1.58.246.183:4000/rtp/229.58.190.141:5000
+海南卫视源3,http://171.116.216.113:10010/rtp/226.0.1.143:2071
 
 # 深圳卫视 频道 (共3个源)
 深圳卫视源1,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
@@ -268,75 +148,52 @@ CHC影迷电影源2,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/2025
 深圳卫视源3,http://drive.mxmy.net:8888/udp/239.3.1.134:8020
 
 # 湖北卫视 频道 (共3个源)
-湖北卫视源1,http://113.57.93.165:9900/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视源2,http://124.128.73.58:9901/tsfile/live/0132_1.m3u8?key=txiptv
-湖北卫视源3,http://171.116.216.113:10010/rtp/226.0.1.152:3082
+湖北卫视源1,https://www.freetv.top/migu/947472496.m3u8?migutoken=d03fbc587528cd8db150889a8b7ccf82908a9ac1d12b60856ea83f94571aa02a9fd49519a652c6266e3f3c051465858f993daed973086f14e768ebb5a9441e4875111e85555c315b0f30f9a1c2
+湖北卫视源2,http://113.57.93.165:9900/tsfile/live/0132_1.m3u8
+湖北卫视源3,http://113.57.93.165:9900/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 
 # 湖南卫视 频道 (共3个源)
-湖南卫视源1,http://60.16.0.216:5757/hls/21/index.m3u8
+湖南卫视源1,http://drive.mxmy.net:8888/udp/239.3.1.132:8012
 湖南卫视源2,http://112.27.235.94:8000/hls/31/index.m3u8
-湖南卫视源3,http://124.128.73.58:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-
-# 澳门莲花 频道 (共2个源)
-澳门莲花源1,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-澳门莲花源2,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+湖南卫视源3,http://124.128.73.58:9901/tsfile/live/0128_1.m3u8
 
 # 甘肃卫视 频道 (共3个源)
-甘肃卫视源1,http://218.17.33.178:53290/tsfile/live/0141_1.m3u8?key=txiptv
-甘肃卫视源2,http://120.76.248.139/live/bfgd/4200000119.m3u8
-甘肃卫视源3,http://183.11.239.36:808/hls/119/index.m3u8
-
-# 经典电影 频道 (共1个源)
-经典电影源1,http://cdn.jdshipin.com:8880/huya.php?id=11342427
-
-# 翡翠台 频道 (共3个源)
-翡翠台源1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠台源2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
-翡翠台源3,http://r.jdshipin.com/62WM7
+甘肃卫视源1,http://120.76.248.139/live/bfgd/4200000119.m3u8
+甘肃卫视源2,http://218.17.33.178:53290/tsfile/live/0141_1.m3u8?key=txiptv
+甘肃卫视源3,http://dms.yryyj.site:8188/udp/239.76.246.94:1234
 
 # 西藏卫视 频道 (共3个源)
 西藏卫视源1,http://112.132.10.54:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视源2,http://183.11.239.36:808/hls/64/index.m3u8
-西藏卫视源3,http://120.76.248.139/live/bfgd/4200000121.m3u8
+西藏卫视源2,http://124.128.73.58:9901/tsfile/live/0111_1.m3u8
+西藏卫视源3,http://124.128.73.58:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 
 # 贵州卫视 频道 (共3个源)
 贵州卫视源1,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
-贵州卫视源2,http://171.116.216.113:10010/rtp/226.0.1.188:3116
-贵州卫视源3,http://1.58.246.183:4001/rtp/229.58.190.100:5000
+贵州卫视源2,http://223.167.245.20:8001/rtp/239.45.1.80:5140
+贵州卫视源3,http://124.128.73.58:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 
 # 辽宁卫视 频道 (共3个源)
-辽宁卫视源1,http://223.167.245.20:8001/rtp/239.45.1.123:5140
-辽宁卫视源2,http://113.57.93.165:9900/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视源3,http://124.128.73.58:9901/tsfile/live/0121_1.m3u8
+辽宁卫视源1,https://www.yangshipin.cn/tv/home?pid=600002505
+辽宁卫视源2,http://113.57.93.165:9900/tsfile/live/0121_1.m3u8
+辽宁卫视源3,http://171.116.216.113:10010/rtp/226.0.1.177:3101
 
 # 重庆卫视 频道 (共3个源)
-重庆卫视源1,http://drive.mxmy.net:8888/udp/239.3.1.122:8160
-重庆卫视源2,http://171.116.216.113:10010/rtp/226.0.1.178:3102
-重庆卫视源3,http://124.128.73.58:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视源1,https://www.yangshipin.cn/tv/home?pid=600002531
+重庆卫视源2,http://drive.mxmy.net:8888/udp/239.3.1.122:8160
+重庆卫视源3,http://112.27.235.94:8000/hls/36/index.m3u8
 
 # 陕西卫视 频道 (共3个源)
-陕西卫视源1,https://shyd.695847.xyz/cms001/ch00000090990000001067/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-陕西卫视源2,http://124.128.73.58:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视源1,http://61.156.228.12:8154/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视源2,http://61.156.228.12:8154/tsfile/live/0136_1.m3u8
 陕西卫视源3,http://112.27.235.94:8000/hls/43/index.m3u8
 
 # 青海卫视 频道 (共3个源)
-青海卫视源1,http://124.128.73.58:9901/tsfile/live/0140_1.m3u8
-青海卫视源2,https://piccpndali.v.myalicdn.com/audio/qinghai_2.m3u8
-青海卫视源3,http://sh.lnott.top:880/dx54.m3u8
-
-# 靖天电影 频道 (共1个源)
-靖天电影源1,http://live4play.uk/livehttpplay?channel_id=12037
-
-# 香港卫视 频道 (共3个源)
-香港卫视源1,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
-香港卫视源2,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-香港卫视源3,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-
-# 黑莓电影 频道 (共1个源)
-黑莓电影源1,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
+青海卫视源1,https://www.freetv.top/migu/947472506.m3u8?migutoken=c740fc58e518a315b254873398c630ca506a9de327397b5e27a668d9c1e170b6512a1834dab3229ddc39b5a61c2ea42fae6d196a11c6d0e5e212522e6edf197f65ad9addf0b540aa6c9d4fcd3e
+青海卫视源2,https://www.freetv.top/migu/947472506.m3u8?migutoken=1f19e5986a0a2ef4e7a8d09edf9a6b8faf270d5320ef4f13eaa876ea8a3ecc2263d1cd2dacb91ceadd6c38af23137707d164462be4cee5d1357c3a8289e0f87ebbce11f5d97c0daa3ac94ae7a1
+青海卫视源3,https://www.freetv.top/migu/947472506.m3u8?migutoken=7bfff5cd40297ac2c258f598f97f36a47e8d0d19763d61ff6f62aff98021e7fcafa9b64df934c1ca76302e804fb60ce17856d30a33b7965613665d25cce09f43302170684a7e39c85290af3bd3
 
 # 黑龙江卫视 频道 (共3个源)
-黑龙江卫视源1,https://shyd.695847.xyz/cms001/ch00000090990000001031/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-黑龙江卫视源2,http://223.167.245.20:8001/rtp/239.45.3.232:5140
-黑龙江卫视源3,http://171.116.216.113:10010/rtp/226.0.1.151:3080
+黑龙江卫视源1,http://drive.mxmy.net:8888/udp/239.3.1.133:8016
+黑龙江卫视源2,http://61.156.228.12:8154/tsfile/live/0143_1.m3u8
+黑龙江卫视源3,http://112.27.235.94:8000/hls/48/index.m3u8
 
